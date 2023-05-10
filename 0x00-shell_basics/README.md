@@ -1,0 +1,1 @@
+The shell basic script
